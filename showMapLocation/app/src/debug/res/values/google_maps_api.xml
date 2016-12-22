@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=5B:88:2D:CB:D7:D6:9A:F3:85:18:49:DC:58:02:D4:97:06:5C:3F:CE%3Bcom.example.moshe.showmaplocation
+
+    You can also add your credentials to an existing key, using this line:
+    5B:88:2D:CB:D7:D6:9A:F3:85:18:49:DC:58:02:D4:97:06:5C:3F:CE;com.example.moshe.showmaplocation
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+         AIzaSyDFtjc5Ow85leN1XZLKm6SJ8qjerdpWHr4
+    </string>
+</resources>
